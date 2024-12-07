@@ -1,0 +1,14 @@
+blinker
+chess
+chess-board
+click
+Flask
+Flask-Cors
+importlib_metadata
+itsdangerous
+Jinja2
+MarkupSafe
+pygame
+python-chess
+Werkzeug
+zipp
