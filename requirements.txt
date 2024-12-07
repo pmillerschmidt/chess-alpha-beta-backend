@@ -5,4 +5,4 @@ Flask
 Flask-Cors
 pygame
 python-chess
-uvicorn
+gunicorn
